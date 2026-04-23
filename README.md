@@ -1,7 +1,7 @@
 # Hi, I'm Santhosh Teja 👋
 
 🚀 AI + Backend Enthusiast
-🎯 Preparing for C4GT 2026
+
 
 ---
 
