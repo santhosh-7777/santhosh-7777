@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Santhosh Teja 👋
 
-<!--
-**santhosh-7777/santhosh-7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI + Backend Enthusiast
+🎯 Preparing for C4GT 2026
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects
+
+* 🎙 Voicebot
+  → Real-time conversational assistant
+
+* 🤖 AI Powered Blogging Platform
+  → Generates structured blogs using NLP
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh-7777\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=santhosh-7777\&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=santhosh-7777\&theme=react-dark)
