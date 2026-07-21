@@ -9,7 +9,7 @@
 </div>
 
 ### About Me
-- 💻 Backend & AI engineer, B.Tech CSE @ NIT Agartala
+- 💻 Backend & AI engineer
 - 🔭 Building across Python, Go, TypeScript
 - 🌱 Exploring agentic AI systems and civic tech
 - ⚡ Contributing to SugarLabs Music Blocks, Medic (cht-core)
@@ -48,12 +48,8 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-
----
-
 *⚡ Always debugging. Always shipping.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
