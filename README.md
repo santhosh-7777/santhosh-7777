@@ -41,13 +41,19 @@
 </div>
 
 ### 🏆 Highlights
-- Reviewer / Code Owner · Music Blocks (SugarLabs) · 20+ merged PRs
+- Active contributor · Music Blocks (SugarLabs) · 20+ merged PRs
 - Merged contributor · Medic (cht-core) — healthcare platform used across multiple countries
 - GSSoC 2025 — top ~700 of 40,000+ participants
 - 500+ DSA problems solved
 
 <div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+
+---
+
 *⚡ Always debugging. Always shipping.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
